@@ -77,9 +77,8 @@ description: A curated list of useful tools, libraries, gamemodes, filterscripts
 
 ## Crypto Plugins
 
-- **[whirlpool](https://github.com/Southclaws/samp-whirlpool)** - Whirlpool Cryptographic plugin for SA:MP.
-- **[bcrypt](https://github.com/LassiR/bcrypt-samp)** - Bcrypt Cryptographic plugin for SA:MP.
-- **[SHA512](https://github.com/openmultiplayer/archive/raw/master/plugins/SHA512.zip)** - SHA512 Cryptographic plugin for SA:MP.
+- **[LassiR's Bcrypt](https://github.com/LassiR/bcrypt-samp)** - Bcrypt Cryptographic plugin (LassiR). 
+- **[Sreyas-Sreelal's Bcrypt](https://github.com/Sreyas-Sreelal/samp-bcrypt)** - Bcrypt Cryptographic plugin (AKA \_SYS_)
 - **[samp-crypto](https://github.com/alextwothousand/samp-crypto)** - A list of cryptographic functions such as Argon2, Scrypt, and Bcrypt for SA:MP.
 
 ## GDK/SDKs
@@ -107,3 +106,10 @@ description: A curated list of useful tools, libraries, gamemodes, filterscripts
 - **[TextDraw-Editor](https://github.com/Nickk888SAMP/TextDraw-Editor)** - A TextDraw editor which have some rich features.
 - **[FuseZ-Map-Editor](https://github.com/fusez/Map-Editor-V3)** - An In-Game map editor for SA:MP
 - **[Texture Studio](https://github.com/Pottus/Texture-Studio)** - This is an in game map editor that will let you texture up to material index 15 (16 materials) as well as set color for that material index on objects.
+
+
+## Example Modes
+
+### Filterscripts:
+
+### Gamemodes: 
